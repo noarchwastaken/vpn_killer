@@ -96,3 +96,5 @@ Uncomment the line containing `killVPN();` in `src/assets/index.html`; build aga
 If you run Android 9 or later, turn on **Always-on VPN** and **Block connections without VPN** in your system VPN settings.
 
 Be aware that this will break split-tunneling (a.k.a. Per-app proxy).
+
+Or you can use [Tor Browser](https://www.torproject.org/), which relies on an internal Tor for proxy, and cannot make connections without it.
