@@ -25,7 +25,7 @@ So I came up with the idea of spamming requests while allocating memory. After t
 
 The backend of `vpn_killer` is built using [Rocket.rs](https://rocket.rs/) and Rust.
 
-Currently, only binaries for GNU/Linux are built.
+Currently, only binaries for x86_64 GNU/Linux are built.
 
 ### Building
 
